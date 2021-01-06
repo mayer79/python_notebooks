@@ -8,10 +8,8 @@ This notebook shows how to predict diamonds prices based on Gamma GLM, Gamma Boo
 
 ## Visualizing ML
 
-Visualizes fitting process of 
+Visualizes fitting process of Gradient Boosting
 
-- Gradient Boosting
+## Multiply
 
-- Random Forest
-
-- Keras/TF
+Shows how a neural network works by modelling multiplication.
