@@ -1,4 +1,2 @@
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
+outputs/
+.ipynb_checkpoints/
